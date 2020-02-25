@@ -1,0 +1,21 @@
+Training_trials_congruent: 10
+Training_trials_incongruent: 10
+
+Training_Resp_time: 4
+Training_Wait_time: 1
+
+Number_of_blocks: 1
+Experiment_trials_congruent: 10
+Experiment_trials_incongruent: 10
+
+Experiment_Resp_time: 3
+Experiment_Wait_time: 1
+
+Jitter: 1
+
+Fix_time: 1
+Feedb: True
+Feedb_time: 1
+
+words_dist: 40
+words_color: black
